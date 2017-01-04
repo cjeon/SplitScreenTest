@@ -2,6 +2,8 @@
 
 This project is made to demonstrate unexpected behavior of android application during split screen.
 
+see https://code.google.com/p/android/issues/detail?id=231337 for more info & context.
+
 # In brief:
 
 ## What happens
